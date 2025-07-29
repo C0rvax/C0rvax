@@ -1,6 +1,6 @@
 # Salut, moi c'est C0rvax 👋
 
-<img align="right" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWd3dHQwajluOHh6a3J0M3d4ZXM3YzhkN2tkZnNpOXdsb3NtNjlueiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r6uielUJrGGmVcJ3GL/giphy.gif" />
+<img align="right" width="400" src="https://github.com/C0rvax/C0rvax/blob/main/IntelInside.gif?raw=true" />
 
 Je suis un développeur passionné par les **systèmes embarqués**, l'**électronique** et la **programmation bas-niveau**. Actuellement étudiant à l'**École 42 Paris**, mon parcours m'a permis de construire des fondations solides en développement système et web, avant de me spécialiser dans le domaine qui m'anime le plus.
 
