@@ -1,4 +1,4 @@
-# Salut, moi c'est C0rvax 👋
+# Salut, moi c'est Arthur 👋
 
 <img align="right" width="400" src="https://github.com/C0rvax/C0rvax/blob/main/IntelInside.gif?raw=true" />
 
