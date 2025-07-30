@@ -1,6 +1,6 @@
 # Salut, moi c'est Arthur 👋
 
-<img align="right" width="400" src="https://github.com/C0rvax/C0rvax/blob/main/IntelInside.gif?raw=true" />
+<img align="right" width="300" src="https://github.com/C0rvax/C0rvax/blob/main/IntelInside.gif?raw=true" />
 
 Je suis un développeur passionné par les **systèmes embarqués**, l'**électronique** et la **programmation bas-niveau**. Actuellement étudiant à l'**École 42 Paris**, mon parcours m'a permis de construire des fondations solides en développement système et web, avant de me spécialiser dans le domaine qui m'anime le plus.
 
