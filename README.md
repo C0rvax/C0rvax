@@ -1,10 +1,6 @@
-# Salut, moi c'est Arthur 👋
-
-<img align="right" width="350" src="https://github.com/C0rvax/C0rvax/blob/main/IntelInside.gif?raw=true" />
+# Salut, moi c'est Arthur
 
 Je suis un développeur passionné par les **systèmes embarqués**, l'**électronique** et la **programmation bas-niveau**. Actuellement étudiant à l'**École 42 Paris**, mon parcours m'a permis de construire des fondations solides en développement système et web, avant de me spécialiser dans le domaine qui m'anime le plus.
-
-Mon objectif est de concevoir et programmer les systèmes intelligents de demain, au plus près du matériel.
 
 - 🧠 Je me spécialise actuellement dans la programmation de **microcontrôleurs** et les systèmes temps réel.
 - ⚡️ Je passe mon temps libre à expérimenter avec des **cartes électroniques** (Arduino, STM32, ESP32) et à automatiser mon quotidien avec des **scripts Bash**.
@@ -13,7 +9,7 @@ Mon objectif est de concevoir et programmer les systèmes intelligents de demain
 
 ---
 
-## 🛠️ Ma Boîte à Outils Technique
+## 🛠️ Outils & Technologies
 
 | Langages de programmation                                                                                                                                                                                                                                                             | Embarqué & Systèmes                                                                                                                                                             | Web & DevOps                                                                                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -22,17 +18,26 @@ Mon objectif est de concevoir et programmer les systèmes intelligents de demain
 
 ---
 
-## 🎓 Mon Parcours à 42
+## 🎓 Programmes & Projets à 42
 
-Mon apprentissage à 42 s'est déroulé en trois phases clés, me faisant passer des fondamentaux de l'informatique à ma spécialisation en systèmes embarqués.
+### ft_transcendence
 
-### 1. Fondations Solides (Tronc Commun 42)
-Le tronc commun m'a donné une maîtrise profonde de la **programmation en C**, de l'**algorithmique**, et de l'**administration système sous Linux**.
+Ce projet final m'a appris à construire une application web complexe de A à Z, en utilisant une architecture moderne et des outils de production. Même si mon focus est l'embarqué, ce projet démontre ma capacité à gérer des systèmes complexes et à travailler sur l'ensemble de la stack technique.
 
-*   **Projets clés** : `minishell` (création d'un shell complet), `cub3d` (moteur 3D en RayCasting), `philosophers` (gestion de threads et mutex).
+*   **Architecture** : Backend **Node.js/Fastify** en microservices, Frontend **TypeScript/TailwindCSS**, le tout conteneurisé avec **Docker** et monitoré avec **Prometheus/Grafana**.
 
-### 2. Plongée dans l'Embarqué (Piscine 42 Chips 🤖)
-C'est ici que ma passion s'est confirmée. Cette piscine intensive m'a initié à la programmation au plus près du matériel sur des **microcontrôleurs STM32**.
+### minishell
+création d'un shell complet 
+
+### inception
+
+### cub3d
+moteur 3D en RayCasting
+
+### philosophers
+gestion de threads et mutex
+
+### Plongée dans l'Embarqué (Piscine 42 Chips 🤖)
 
 *   **Compétences acquises** : Programmation bas-niveau, gestion des périphériques (GPIO, ADC), protocoles de communication (I2C, SPI, UART), gestion de la mémoire et des interruptions, utilisation de toolchains cross-compilées (GCC ARM).
 
@@ -52,27 +57,26 @@ C'est ici que ma passion s'est confirmée. Cette piscine intensive m'a initié �
 </details>
 
 ### 3. Maîtrise du Full-Stack & DevOps (Projet ft_transcendence)
-Ce projet final m'a appris à construire une application web complexe de A à Z, en utilisant une architecture moderne et des outils de production. Même si mon focus est l'embarqué, ce projet démontre ma capacité à gérer des systèmes complexes et à travailler sur l'ensemble de la stack technique.
-
-*   **Architecture** : Backend **Node.js/Fastify** en microservices, Frontend **TypeScript/TailwindCSS**, le tout conteneurisé avec **Docker** et monitoré avec **Prometheus/Grafana**.
-
 ---
 
-## 💡 Mes Scripts & Projets Personnels
+## 💡 Projets Personnels
+
+### Dotfiles - Automatisation de l'Installation Linux
+
 Fatigué de reconfigurer manuellement chaque nouvelle machine Linux ? Moi aussi. J'ai créé un ensemble de scripts Bash pour **automatiser entièrement l'installation et la configuration** de mon environnement de développement sur une nouvelle distribution.
 
 #### Fonctionnalités Clés :
 - **Détection automatique** de la distribution (Debian, Arch, Fedora...) et de l'environnement de bureau (KDE, GNOME, XFCE...).
-- **Installation interactive** : choix entre une configuration "Légère" ou "Complète".
-- **Installation et configuration** d'outils essentiels : `git`, `neovim`, `docker`, `zsh` avec Oh My Zsh & Powerlevel10k, etc.
+- **Installation interactive** : choix entre plusieurs configurations.
 - **Personnalisation automatique** du bureau (thèmes, polices, icônes, raccourcis) pour une expérience unifiée.
-- 
+
 <p align="center">
   <a href="https://github.com/C0rvax/dotfiles"><strong>➡️ Voir le dépôt du projet ⬅️</strong></a>
 </p>
+
 ---
 
-## 📊 Mes Statistiques GitHub
+## 📊 Statistiques GitHub
 
 ![C0rvax's GitHub stats](https://github-readme-stats.vercel.app/api?username=C0rvax&show_icons=true&theme=dracula&count_private=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0rvax&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
