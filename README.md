@@ -20,7 +20,7 @@ Passionate about **embedded systems**, **electronics**, and **low-level programm
 
 ## 🎓 42 School Projects
 
-### [ft_transcendence](https://github.com/C0rvax/ft_transcendence)
+### [ft_transcendence](https://github.com/bokanchik/-ft_transcendence)
 A comprehensive full-stack web application developed from scratch. This capstone project at 42 School provided an opportunity to build a complex web system using modern architecture and production-ready tools, demonstrating proficiency across the entire technical stack.
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
@@ -50,7 +50,7 @@ Deployment of multiple services (WordPress, Nginx, MariaDB, Adminer, etc.) using
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress">
 </p>
 
-### [cub3d](https://github.com/C0rvax/cub3d)
+### [cub3d](https://github.com/CamilleT123/Cub3D)
 Implementation of a 3D graphics engine using RayCasting, inspired by Wolfenstein 3D. This project involved deep understanding of graphics programming, linear algebra, and event handling.
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
