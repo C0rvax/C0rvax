@@ -22,25 +22,61 @@ Passionate about **embedded systems**, **electronics**, and **low-level programm
 
 ### [ft_transcendence](https://github.com/C0rvax/ft_transcendence)
 A comprehensive full-stack web application developed from scratch. This capstone project at 42 School provided an opportunity to build a complex web system using modern architecture and production-ready tools, demonstrating proficiency across the entire technical stack.
-
-*   **Architecture**: Microservices backend with **Node.js/Fastify**, frontend with **TypeScript/TailwindCSS**, all containerized using **Docker** and monitored with **Prometheus/Grafana**.
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
+</p>
 
 ### [minishell](https://github.com/C0rvax/minishell)
 Development of a complete custom Unix shell, including parsing, execution of commands, pipe handling, redirections, and environment variable management.
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+</p>
 
 ### [inception](https://github.com/C0rvax/inception)
 Deployment of multiple services (WordPress, Nginx, MariaDB, Adminer, etc.) using Docker Compose, focusing on container orchestration, networking, and volume management.
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress">
+</p>
 
 ### [cub3d](https://github.com/C0rvax/cub3d)
 Implementation of a 3D graphics engine using RayCasting, inspired by Wolfenstein 3D. This project involved deep understanding of graphics programming, linear algebra, and event handling.
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/MinilibX-black?style=flat-square" alt="MinilibX">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+</p>
 
 ### [philosophers](https://github.com/C0rvax/philosophers)
 A classic concurrency problem solving using threads and mutexes to manage shared resources and prevent deadlocks, demonstrating strong understanding of parallel programming.
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/POSIX%20Threads-blue?style=flat-square" alt="POSIX Threads">
+  <img src="https://img.shields.io/badge/Mutex-red?style=flat-square" alt="Mutex">
+</p>
 
-### Embedded Systems Immersion (42 Chips Pool 🤖)
+### [Embedded Systems Immersion (42 Chips Pool 🤖)](https://github.com/C0rvax/42_embedded)
 Intensive program focused on low-level programming and hardware interaction. This pool significantly strengthened my skills in embedded development.
-
-*   **Acquired Skills**: Low-level programming, peripheral management (GPIO, ADC), communication protocols (I2C, SPI, UART), memory and interrupt handling, cross-compiled toolchains (GCC ARM).
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/STM32-032340?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32">
+  <img src="https://img.shields.io/badge/GCC%20ARM-darkblue?style=flat-square" alt="GCC ARM">
+  <img src="https://img.shields.io/badge/Keil%20MDK-darkred?style=flat-square" alt="Keil MDK">
+  <img src="https://img.shields.io/badge/UART-green?style=flat-square" alt="UART">
+  <img src="https://img.shields.io/badge/SPI-orange?style=flat-square" alt="SPI">
+  <img src="https://img.shields.io/badge/I2C-purple?style=flat-square" alt="I2C">
+</p>
 
 <details>
   <summary><strong>Modules Covered (click to expand)</strong></summary>
@@ -63,6 +99,11 @@ Intensive program focused on low-level programming and hardware interaction. Thi
 
 ### [Dotfiles - Linux Installation Automation](https://github.com/C0rvax/dotfiles)
 Tired of manually reconfiguring every new Linux machine? This collection of Bash scripts automates the entire installation and configuration of a development environment across various Linux distributions.
+<p align="left">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
 
 #### Key Features:
 -   **Automatic detection** of distribution (Debian, Arch, Fedora, etc.) and desktop environment (KDE, GNOME, XFCE...).
