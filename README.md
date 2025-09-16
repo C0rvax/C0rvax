@@ -19,6 +19,25 @@ Passionate about **embedded systems**, **electronics**, and **low-level programm
 
 ## 🎓 42 School Projects
 
+### [Embedded Systems Immersion (42 Chips Pool 🤖)](https://github.com/C0rvax/42_embedded)
+Intensive program focused on low-level programming and hardware interaction. This pool significantly strengthened my skills in embedded development.
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/STM32-032340?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32">
+  <img src="https://img.shields.io/badge/AVR%20GCC-darkblue?style=flat-square" alt="AVR GCC">
+  <img src="https://img.shields.io/badge/UART-green?style=flat-square" alt="UART">
+  <img src="https://img.shields.io/badge/SPI-orange?style=flat-square" alt="SPI">
+  <img src="https://img.shields.io/badge/I2C-purple?style=flat-square" alt="I2C">
+</p>
+
+### [ft_irc](https://github.com/TinnoTienno/Ft_IRC)
+Development of an IRC (Internet Relay Chat) server in C++98, compliant with RFC 2812. This project involved implementing a server capable of handling multiple clients simultaneously, channels with various modes (invite-only, password-protected, etc.), and the full set of basic IRC commands. The server also includes a bot for file transfers (DCC).
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Sockets-blue?style=flat-square" alt="Sockets">
+  <img src="https://img.shields.io/badge/Networking-orange?style=flat-square" alt="Networking">
+</p>
+
 ### [ft_transcendence](https://github.com/bokanchik/-ft_transcendence)
 A comprehensive full-stack web application developed from scratch. This capstone project at 42 School provided an opportunity to build a complex web system using modern architecture and production-ready tools, demonstrating proficiency across the entire technical stack.
 <p align="left">
@@ -31,20 +50,20 @@ A comprehensive full-stack web application developed from scratch. This capstone
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
 </p>
 
+### [philosophers](https://github.com/C0rvax/philosophers)
+A classic concurrency problem solving using threads and mutexes to manage shared resources and prevent deadlocks, demonstrating strong understanding of parallel programming.
+<p align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/POSIX%20Threads-blue?style=flat-square" alt="POSIX Threads">
+  <img src="https://img.shields.io/badge/Mutex-red?style=flat-square" alt="Mutex">
+</p>
+
 ### [minishell](https://github.com/C0rvax/minishell)
 Development of a complete custom Unix shell, including parsing, execution of commands, pipe handling, redirections, and environment variable management.
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-</p>
-
-### [ft_irc](https://github.com/TinnoTienno/Ft_IRC)
-Development of an IRC (Internet Relay Chat) server in C++98, compliant with RFC 2812. This project involved implementing a server capable of handling multiple clients simultaneously, channels with various modes (invite-only, password-protected, etc.), and the full set of basic IRC commands. The server also includes a bot for file transfers (DCC).
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Sockets-blue?style=flat-square" alt="Sockets">
-  <img src="https://img.shields.io/badge/Networking-orange?style=flat-square" alt="Networking">
 </p>
 
 ### [inception](https://github.com/C0rvax/inception)
@@ -63,25 +82,6 @@ Implementation of a 3D graphics engine using RayCasting, inspired by Wolfenstein
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/MinilibX-black?style=flat-square" alt="MinilibX">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-</p>
-
-### [philosophers](https://github.com/C0rvax/philosophers)
-A classic concurrency problem solving using threads and mutexes to manage shared resources and prevent deadlocks, demonstrating strong understanding of parallel programming.
-<p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/POSIX%20Threads-blue?style=flat-square" alt="POSIX Threads">
-  <img src="https://img.shields.io/badge/Mutex-red?style=flat-square" alt="Mutex">
-</p>
-
-### [Embedded Systems Immersion (42 Chips Pool 🤖)](https://github.com/C0rvax/42_embedded)
-Intensive program focused on low-level programming and hardware interaction. This pool significantly strengthened my skills in embedded development.
-<p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/STM32-032340?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32">
-  <img src="https://img.shields.io/badge/AVR%20GCC-darkblue?style=flat-square" alt="AVR GCC">
-  <img src="https://img.shields.io/badge/UART-green?style=flat-square" alt="UART">
-  <img src="https://img.shields.io/badge/SPI-orange?style=flat-square" alt="SPI">
-  <img src="https://img.shields.io/badge/I2C-purple?style=flat-square" alt="I2C">
 </p>
 
 <details>
