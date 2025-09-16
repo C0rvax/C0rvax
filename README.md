@@ -39,6 +39,14 @@ Development of a complete custom Unix shell, including parsing, execution of com
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
 </p>
 
+### [ft_irc](https://github.com/TinnoTienno/Ft_IRC)
+Development of an IRC (Internet Relay Chat) server in C++98, compliant with RFC 2812. This project involved implementing a server capable of handling multiple clients simultaneously, channels with various modes (invite-only, password-protected, etc.), and the full set of basic IRC commands. The server also includes a bot for file transfers (DCC).
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Sockets-blue?style=flat-square" alt="Sockets">
+  <img src="https://img.shields.io/badge/Networking-orange?style=flat-square" alt="Networking">
+</p>
+
 ### [inception](https://github.com/C0rvax/inception)
 Deployment of multiple services (WordPress, Nginx, MariaDB, Adminer, etc.) using Docker Compose, focusing on container orchestration, networking, and volume management.
 <p align="left">
@@ -114,3 +122,4 @@ Tired of manually reconfiguring every new Linux machine? This collection of Bash
 
 ![C0rvax's GitHub stats](https://github-readme-stats.vercel.app/api?username=C0rvax&show_icons=true&theme=dracula&count_private=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0rvax&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
