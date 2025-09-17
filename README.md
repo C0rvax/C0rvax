@@ -23,7 +23,7 @@ Passionate about **embedded systems**, **electronics**, and **low-level programm
 Intensive program focused on low-level programming and hardware interaction. This pool significantly strengthened my skills in embedded development.
 <p align="left">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/STM32-032340?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32">
+  <img src="https://img.shields.io/badge/Atmega328p-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Atmega328p">
   <img src="https://img.shields.io/badge/AVR%20GCC-darkblue?style=flat-square" alt="AVR GCC">
   <img src="https://img.shields.io/badge/UART-green?style=flat-square" alt="UART">
   <img src="https://img.shields.io/badge/SPI-orange?style=flat-square" alt="SPI">
